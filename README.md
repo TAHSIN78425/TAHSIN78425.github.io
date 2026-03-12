@@ -1,8 +1,8 @@
-# [Your Name] - Data Analysis Portfolio
+# TAHSIN RAHMAN - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
-## About This Portfolio Template
+## About This Portfolio
 
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
